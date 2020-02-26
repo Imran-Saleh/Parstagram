@@ -22,6 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 configuration.server = "https://radiant-plateau-15190.herokuapp.com/parse"
             })
         )
+        
         return true
     }
 
